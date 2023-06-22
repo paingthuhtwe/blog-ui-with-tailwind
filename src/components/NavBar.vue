@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <div class="w-10/12 h-100 mx-auto py-5 relative">
+    <div class="w-10/12 mx-auto py-5 relative">
       <div class="flex justify-between">
         <!-- Logo & Brand -->
         <div class="flex items-center cursor-pointer">
