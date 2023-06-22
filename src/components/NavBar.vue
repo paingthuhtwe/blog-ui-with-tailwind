@@ -11,7 +11,7 @@
           <h1 class="text-indigo-600 text-2xl font-semibold">Educate</h1>
         </div>
         <!-- Menu Section -->
-        <div class="flex justify-center items-center relative">
+        <div class="md:flex justify-center items-center relative hidden">
           <ul class="md:flex items-center">
             <li class="" @mouseenter="menu = !menu" @mouseleave="menu = !menu">
               <button
@@ -129,7 +129,7 @@
           </ul>
         </div>
         <div>
-          <div class="flex items-center">
+          <div class="md:flex items-center hidden">
             <a
               href="#"
               class="px-5 py-2 text-slate-600 text-md font-semibold hover:text-slate-800 rounded-full hover:bg-slate-200 cursor-pointe"
