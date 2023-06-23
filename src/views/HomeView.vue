@@ -6,9 +6,11 @@
   <CategoryPage></CategoryPage>
   <CoursePage></CoursePage>
   <ExperiencePage></ExperiencePage>
+  <ReviewPage></ReviewPage>
 </template>
 
 <script>
+import ReviewPage from "../components/ReviewPage";
 import ExperiencePage from "../components/ExperiencePage";
 import CoursePage from "../components/CoursePage";
 import CategoryPage from "../components/CategoryPage";
@@ -21,6 +23,7 @@ import NavBar from "../components/NavBar";
 export default {
   name: "HomeView",
   components: {
+    ReviewPage,
     ExperiencePage,
     CoursePage,
     CategoryPage,
