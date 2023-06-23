@@ -18,12 +18,51 @@
             Start Now
           </button>
         </div>
-        <div class="">
+        <div class="relative">
           <img
             class="w-full md:ps-36"
             src="../assets/ManWithTablet.png"
             alt=""
           />
+          <div
+            class="absolute right-5 bottom-5 bg-white shadow-lg p-4 rounded-lg"
+          >
+            <h1 class="text-sm font-semibold text-slate-700 mb-2">
+              200+ Experienced Tours
+            </h1>
+            <div class="flex">
+              <img
+                class="w-6 h-6 rounded-full shadow p-[1px] bg-white hover:scale-110 hover:z-10 cursor-pointer"
+                src="../assets/KhinWintWar.jpeg"
+                alt=""
+              />
+              <img
+                class="w-6 h-6 rounded-full shadow p-[1px] bg-white hover:scale-110 hover:z-10 cursor-pointer -translate-x-2"
+                src="../assets/Model01.jpeg"
+                alt=""
+              />
+              <img
+                class="w-6 h-6 rounded-full shadow p-[1px] bg-white hover:scale-110 hover:z-10 cursor-pointer -translate-x-4"
+                src="../assets/Model02.jpeg"
+                alt=""
+              />
+              <img
+                class="w-6 h-6 rounded-full shadow p-[1px] bg-white hover:scale-110 hover:z-10 cursor-pointer -translate-x-6"
+                src="../assets/Nannayuri1.png"
+                alt=""
+              />
+              <img
+                class="w-6 h-6 rounded-full shadow p-[1px] bg-white hover:scale-110 hover:z-10 cursor-pointer -translate-x-8"
+                src="../assets/Nannayuri2.png"
+                alt=""
+              />
+              <div
+                class="w-6 h-6 rounded-full shadow p-[1px] bg-pink-400 hover:scale-110 hover:z-10 cursor-pointer -translate-x-10 flex items-center justify-center"
+              >
+                <fa class="text-xs text-white" :icon="['fas', 'plus']" />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
