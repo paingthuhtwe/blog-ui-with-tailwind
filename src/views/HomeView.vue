@@ -5,9 +5,11 @@
   <ServicePage></ServicePage>
   <CategoryPage></CategoryPage>
   <CoursePage></CoursePage>
+  <ExperiencePage></ExperiencePage>
 </template>
 
 <script>
+import ExperiencePage from "../components/ExperiencePage";
 import CoursePage from "../components/CoursePage";
 import CategoryPage from "../components/CategoryPage";
 import ServicePage from "../components/ServicePage";
@@ -19,6 +21,7 @@ import NavBar from "../components/NavBar";
 export default {
   name: "HomeView",
   components: {
+    ExperiencePage,
     CoursePage,
     CategoryPage,
     ServicePage,
