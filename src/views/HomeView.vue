@@ -4,9 +4,11 @@
   <ChartPage></ChartPage>
   <ServicePage></ServicePage>
   <CategoryPage></CategoryPage>
+  <CoursePage></CoursePage>
 </template>
 
 <script>
+import CoursePage from "../components/CoursePage";
 import CategoryPage from "../components/CategoryPage";
 import ServicePage from "../components/ServicePage";
 import ChartPage from "../components/ChartPage";
@@ -17,6 +19,7 @@ import NavBar from "../components/NavBar";
 export default {
   name: "HomeView",
   components: {
+    CoursePage,
     CategoryPage,
     ServicePage,
     ChartPage,
