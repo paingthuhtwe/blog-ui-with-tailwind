@@ -23,7 +23,9 @@
             />
           </div>
         </div>
-        <div class="md:w-3/5 grid grid-cols-4">
+        <div
+          class="md:w-3/5 grid grid-cols-2 md:grid-cols-4 mt-5 md:mt-0 gap-5"
+        >
           <div class="">
             <ul>
               <li class="text-lg text-white font-semibold mb-3">About Us</li>
