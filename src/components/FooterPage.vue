@@ -2,7 +2,7 @@
   <div class="bg-indigo-500">
     <div class="w-10/12 mx-auto py-20">
       <div class="md:flex">
-        <div class="md:w-2/5">
+        <div class="md:w-2/5 scroll-left">
           <h1 class="text-white text-2xl font-semibold">Educate.</h1>
           <p class="text-white text-md font-normal mt-2">
             educate.org@gmail.com
@@ -26,7 +26,7 @@
         <div
           class="md:w-3/5 grid grid-cols-2 md:grid-cols-4 mt-5 md:mt-0 gap-5"
         >
-          <div class="">
+          <div class="scroll-bottom">
             <ul>
               <li class="text-lg text-white font-semibold mb-3">About Us</li>
               <li
@@ -51,7 +51,7 @@
               </li>
             </ul>
           </div>
-          <div class="">
+          <div class="scroll-bottom-1">
             <ul>
               <li class="text-lg text-white font-semibold mb-3">About Us</li>
               <li
@@ -76,7 +76,7 @@
               </li>
             </ul>
           </div>
-          <div class="">
+          <div class="scroll-bottom-2">
             <ul>
               <li class="text-lg text-white font-semibold mb-3">Courses</li>
               <li
@@ -101,7 +101,7 @@
               </li>
             </ul>
           </div>
-          <div class="">
+          <div class="scroll-bottom-3">
             <ul>
               <li class="text-lg text-white font-semibold mb-3">
                 Stay up to Date
@@ -129,7 +129,7 @@
           </div>
         </div>
       </div>
-      <div class="pt-6">
+      <div class="pt-6 scroll-right">
         <p class="text-white text-sm font-semibold">
           &copy; 2023. All Rights Reserved By Educate.
         </p>
