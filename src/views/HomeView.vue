@@ -7,9 +7,11 @@
   <CoursePage></CoursePage>
   <ExperiencePage></ExperiencePage>
   <ReviewPage></ReviewPage>
+  <PartnerPage></PartnerPage>
 </template>
 
 <script>
+import PartnerPage from "../components/PartnerPage";
 import ReviewPage from "../components/ReviewPage";
 import ExperiencePage from "../components/ExperiencePage";
 import CoursePage from "../components/CoursePage";
@@ -23,6 +25,7 @@ import NavBar from "../components/NavBar";
 export default {
   name: "HomeView",
   components: {
+    PartnerPage,
     ReviewPage,
     ExperiencePage,
     CoursePage,
