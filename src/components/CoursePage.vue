@@ -2,7 +2,7 @@
   <div class="my-20">
     <div class="w-10/12 mx-auto">
       <h1
-        class="text-3xl md:text-5xl text-center text-slate-700 font-semibold mb-6"
+        class="text-3xl md:text-5xl text-center text-slate-700 font-semibold mb-6 scroll-left"
       >
         Our Most Popular Courses
       </h1>
@@ -29,7 +29,7 @@
       >
         <swiper-slide>
           <div
-            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3"
+            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3 scroll-bottom"
           >
             <img
               class="w-full rounded-lg h-[200px]"
@@ -66,7 +66,7 @@
         </swiper-slide>
         <swiper-slide>
           <div
-            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3"
+            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3 scroll-bottom-1"
           >
             <img
               class="w-full rounded-lg h-[200px]"
@@ -103,7 +103,7 @@
         </swiper-slide>
         <swiper-slide>
           <div
-            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3"
+            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3 scroll-bottom-2"
           >
             <img
               class="w-full rounded-lg h-[200px]"
@@ -140,7 +140,7 @@
         </swiper-slide>
         <swiper-slide>
           <div
-            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3"
+            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3 scroll-bottom-3"
           >
             <img
               class="w-full rounded-lg h-[200px]"
@@ -177,7 +177,7 @@
         </swiper-slide>
         <swiper-slide>
           <div
-            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3"
+            class="bg-white shadow-lg rounded-lg w-[300px] h-[320px] border border-indigo-50 mx-auto p-3 scroll-bottom-4"
           >
             <img
               class="w-full rounded-lg h-[200px] border"
