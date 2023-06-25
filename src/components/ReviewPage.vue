@@ -2,7 +2,7 @@
   <div class="my-20">
     <div class="w-10/12 mx-auto">
       <h1
-        class="text-3xl md:text-5xl text-slate-700 font-semibold mb-6 text-center"
+        class="text-3xl md:text-5xl text-slate-700 font-semibold mb-6 text-center scroll-left"
       >
         What our Students say
       </h1>
@@ -24,7 +24,7 @@
           :modules="modules"
           class="mySwiper"
         >
-          <swiper-slide class="w-[280px]"
+          <swiper-slide class="w-[280px] scroll-bottom"
             ><img class="w-[200px] mx-auto" src="../assets/NawPhaw.jpeg" />
             <h1 class="text-2xl text-slate-700 font-semibold mt-12 text-center">
               Naw Phaw
@@ -39,7 +39,7 @@
               amet, consectetur adipisicing elit. Corporis, obcaecati."
             </h1>
           </swiper-slide>
-          <swiper-slide class="w-[280px]"
+          <swiper-slide class="w-[280px] scroll-bottom-1"
             ><img class="w-[200px] mx-auto" src="../assets/KhinWintWar.jpeg" />
             <h1 class="text-2xl text-slate-700 font-semibold mt-12 text-center">
               Khin Wint War
@@ -54,7 +54,7 @@
               amet, consectetur adipisicing elit. Corporis, obcaecati."
             </h1>
           </swiper-slide>
-          <swiper-slide class="w-[280px]"
+          <swiper-slide class="w-[280px] scroll-bottom-2"
             ><img class="w-[200px] mx-auto" src="../assets/Nannayuri1.png" />
             <h1 class="text-2xl text-slate-700 font-semibold mt-12 text-center">
               Nanna Yuri
@@ -69,7 +69,7 @@
               amet, consectetur adipisicing elit. Corporis, obcaecati."
             </h1>
           </swiper-slide>
-          <swiper-slide class="w-[280px]"
+          <swiper-slide class="w-[280px] scroll-bottom-3"
             ><img class="w-[200px] mx-auto" src="../assets/Model01.jpeg" />
             <h1 class="text-2xl text-slate-700 font-semibold mt-12 text-center">
               Nay Chi
@@ -84,7 +84,7 @@
               amet, consectetur adipisicing elit. Corporis, obcaecati."
             </h1>
           </swiper-slide>
-          <swiper-slide class="w-[280px]"
+          <swiper-slide class="w-[280px] scroll-bottom-4"
             ><img class="w-[200px] mx-auto" src="../assets/Model02.jpeg" />
             <h1 class="text-2xl text-slate-700 font-semibold mt-12 text-center">
               Myat Noe Khin
