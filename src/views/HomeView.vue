@@ -8,9 +8,11 @@
   <ExperiencePage></ExperiencePage>
   <ReviewPage></ReviewPage>
   <PartnerPage></PartnerPage>
+  <FooterPage></FooterPage>
 </template>
 
 <script>
+import FooterPage from "../components/FooterPage";
 import PartnerPage from "../components/PartnerPage";
 import ReviewPage from "../components/ReviewPage";
 import ExperiencePage from "../components/ExperiencePage";
@@ -25,6 +27,7 @@ import NavBar from "../components/NavBar";
 export default {
   name: "HomeView",
   components: {
+    FooterPage,
     PartnerPage,
     ReviewPage,
     ExperiencePage,

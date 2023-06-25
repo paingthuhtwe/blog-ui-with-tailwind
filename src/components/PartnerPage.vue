@@ -1,5 +1,5 @@
 <template>
-  <div class="w-10/12 mx-auto">
+  <div class="w-10/12 mx-auto my-20">
     <h1
       class="text-3xl md:text-5xl text-slate-700 font-semibold mb-6 text-center"
     >
