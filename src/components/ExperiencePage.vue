@@ -3,29 +3,31 @@
     <div class="w-10/12 mx-auto">
       <div class="grid md:grid-cols-2 gap-5">
         <div class="flex flex-col justify-center">
-          <h1 class="text-3xl md:text-5xl text-slate-700 font-semibold mb-6">
+          <h1
+            class="text-3xl md:text-5xl text-slate-700 font-semibold mb-6 scroll-left"
+          >
             We Have High Expert & Experienced Tutors
           </h1>
-          <p class="text-slate-600 font-normal pr-24">
+          <p class="text-slate-600 font-normal pr-24 scroll-right">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae
             exercitationem, unde explicabo cum quaerat aliquam? Labore, fugiat
             quidem. In sed blanditiis cupiditate aliquid, suscipit deserunt
             accusantium praesentium distinctio deleniti ea.
           </p>
           <button
-            class="text-slate-800 bg-yellow-400 w-36 h-10 text-md font-semibold rounded-full hover:bg-yellow-300 hover:text-slate-700 mt-6"
+            class="text-slate-800 bg-yellow-400 w-36 h-10 text-md font-semibold rounded-full hover:bg-yellow-300 hover:text-slate-700 mt-6 scroll-bottom"
           >
             Start Now
           </button>
         </div>
         <div class="relative">
           <img
-            class="w-full md:ps-36"
+            class="w-full md:ps-36 scroll-right"
             src="../assets/ManWithTablet.png"
             alt=""
           />
           <div
-            class="absolute right-5 bottom-5 bg-white shadow-lg p-4 rounded-lg"
+            class="absolute right-5 bottom-5 bg-white shadow-lg p-4 rounded-lg scroll-bottom"
           >
             <h1 class="text-sm font-semibold text-slate-700 mb-2">
               200+ Experienced Tours
