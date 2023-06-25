@@ -39,7 +39,7 @@
           >
             <fa
               class="w-10 h-10 bg-lime-500 p-2 text-white rounded-md mb-2 shadow-md shadow-lime-200"
-              :icon="['fas', 'chalkboard-user']"
+              :icon="['fas', 'book']"
             />
             <h1 class="text-2xl font-semibold text-slate-700 my-2">
               Best curribulum
@@ -59,7 +59,7 @@
         >
           <fa
             class="w-10 h-10 bg-sky-500 p-2 text-white rounded-md mb-2 shadow-md shadow-sky-200"
-            :icon="['fas', 'chalkboard-user']"
+            :icon="['fas', 'file-contract']"
           />
           <h1 class="text-2xl font-semibold text-slate-700 my-2">
             Certificate
@@ -76,7 +76,7 @@
         >
           <fa
             class="w-10 h-10 bg-pink-500 p-2 text-white rounded-md mb-2 shadow-md shadow-pink-200"
-            :icon="['fas', 'chalkboard-user']"
+            :icon="['fas', 'award']"
           />
           <h1 class="text-2xl font-semibold text-slate-700 my-2">Best Price</h1>
           <p class="text-md text-slate-500">
@@ -91,7 +91,7 @@
         >
           <fa
             class="w-10 h-10 bg-rose-500 p-2 text-white rounded-md mb-2 shadow-md shadow-rose-200"
-            :icon="['fas', 'chalkboard-user']"
+            :icon="['fas', 'lightbulb']"
           />
           <h1 class="text-2xl font-semibold text-slate-700 my-2">
             Creative Thinking
